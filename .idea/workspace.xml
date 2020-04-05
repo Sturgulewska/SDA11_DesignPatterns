@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
@@ -34,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/projects" />
@@ -146,22 +150,34 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="768" y="244" width="488" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1586086614598" />
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1586087116078">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="521" y="124" width="867" height="797" key="CommitChangelistDialog2" timestamp="1586088918515">
+      <screen x="0" y="0" width="4480" height="1053" />
+    </state>
+    <state x="521" y="124" width="867" height="797" key="CommitChangelistDialog2/0.0.4480.1053@0.0.4480.1053" timestamp="1586088918515" />
+    <state width="1878" height="257" key="GridCell.Tab.0.bottom" timestamp="1586088856806">
+      <screen x="0" y="0" width="4480" height="1053" />
     </state>
     <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1586087116078">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="257" key="GridCell.Tab.0.bottom/0.0.4480.1053@0.0.4480.1053" timestamp="1586088856806" />
+    <state width="1878" height="257" key="GridCell.Tab.0.center" timestamp="1586088856806">
+      <screen x="0" y="0" width="4480" height="1053" />
     </state>
     <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1586087116078">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="257" key="GridCell.Tab.0.center/0.0.4480.1053@0.0.4480.1053" timestamp="1586088856806" />
+    <state width="1878" height="257" key="GridCell.Tab.0.left" timestamp="1586088856805">
+      <screen x="0" y="0" width="4480" height="1053" />
     </state>
     <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1586087116078">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="257" key="GridCell.Tab.0.left/0.0.4480.1053@0.0.4480.1053" timestamp="1586088856805" />
+    <state width="1878" height="257" key="GridCell.Tab.0.right" timestamp="1586088856806">
+      <screen x="0" y="0" width="4480" height="1053" />
     </state>
     <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
+    <state width="1878" height="257" key="GridCell.Tab.0.right/0.0.4480.1053@0.0.4480.1053" timestamp="1586088856806" />
+    <state x="555" y="261" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1586088929143">
+      <screen x="0" y="0" width="4480" height="1053" />
+    </state>
+    <state x="555" y="261" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.4480.1053@0.0.4480.1053" timestamp="1586088929143" />
     <state x="834" y="387" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1586080289745">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
