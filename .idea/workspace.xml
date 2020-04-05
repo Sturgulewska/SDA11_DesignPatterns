@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc94cc86-0b6c-4de8-9e66-99646f9bd714" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a73ZKh7Vv8TI7JAqmu3HhO6xbG" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.observer" />
+      <recent name="main.java.factory" />
+      <recent name="main.java.singleton" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProxyMain">
+    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.factory.FactoryMain" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.builder.MainBuilder" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.singleton.MainSingleton" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.observer.ObserverMain" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.proxy.ProxyMain" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProxyMain" />
+        <item itemvalue="Application.ObserverMain" />
+        <item itemvalue="Application.FactoryMain" />
+        <item itemvalue="Application.MainBuilder" />
+        <item itemvalue="Application.MainSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc94cc86-0b6c-4de8-9e66-99646f9bd714" name="Default Changelist" comment="" />
+      <created>1586072858681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586072858681</updated>
+      <workItem from="1586072861508" duration="15551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="244" width="488" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1586086614598">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="768" y="244" width="488" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1586086614598" />
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom" timestamp="1586087116078">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
+    <state width="1878" height="266" key="GridCell.Tab.0.center" timestamp="1586087116078">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
+    <state width="1878" height="266" key="GridCell.Tab.0.left" timestamp="1586087116078">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
+    <state width="1878" height="266" key="GridCell.Tab.0.right" timestamp="1586087116078">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
+    <state x="834" y="387" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1586080289745">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="834" y="387" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1053@0.0.1920.1053" timestamp="1586080289745" />
+  </component>
+</project>
