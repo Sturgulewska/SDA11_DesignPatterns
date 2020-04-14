@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc94cc86-0b6c-4de8-9e66-99646f9bd714" name="Default Changelist" comment="">
+    <list default="true" id="5a60ab5c-fc0c-4db6-b131-ec448afe51f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/Arsalan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/ArsalanMenuHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/FluentApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/IItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/IMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fluentAPI/IResturant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/main/java/proxy/RealImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/main/java/proxy/RealImage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,108 +22,33 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
-  </component>
-  <component name="JsbtTreeLayoutManager">
-    <layout place="tools.popupGrunt">
-      <scroll-view-position x="0" y="0" />
-    </layout>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1a73ZKh7Vv8TI7JAqmu3HhO6xbG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1aX5ozLJ8LQqKO17OxF2iEW4uEE" />
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$USER_HOME$/projects" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="main.java.observer" />
-      <recent name="main.java.factory" />
-      <recent name="main.java.singleton" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="main.java.factory" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.ProxyMain">
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.factory.FactoryMain" />
+  <component name="RunManager">
+    <configuration name="FluentApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.fluentAPI.FluentApiTest" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.builder.MainBuilder" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.singleton.MainSingleton" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObserverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.observer.ObserverMain" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProxyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.proxy.ProxyMain" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.proxy.*" />
+          <option name="PATTERN" value="main.java.fluentAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProxyMain" />
-        <item itemvalue="Application.ObserverMain" />
-        <item itemvalue="Application.FactoryMain" />
-        <item itemvalue="Application.MainBuilder" />
-        <item itemvalue="Application.MainSingleton" />
+        <item itemvalue="Application.FluentApiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -137,77 +67,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc94cc86-0b6c-4de8-9e66-99646f9bd714" name="Default Changelist" comment="" />
-      <created>1586072858681</created>
+      <changelist id="5a60ab5c-fc0c-4db6-b131-ec448afe51f9" name="Default Changelist" comment="" />
+      <created>1586869276339</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586072858681</updated>
-      <workItem from="1586072861508" duration="15960000" />
-      <workItem from="1586856693789" duration="30000" />
-      <workItem from="1586858654158" duration="192000" />
-      <workItem from="1586861057143" duration="235000" />
-      <workItem from="1586861698618" duration="337000" />
+      <updated>1586869276339</updated>
+      <workItem from="1586869279093" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="244" width="488" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1586086614598">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="2660" y="128" width="880" height="797" key="CommitChangelistDialog2" timestamp="1586869858480">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state x="768" y="244" width="488" height="557" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1586086614598" />
-    <state x="521" y="124" width="867" height="797" key="CommitChangelistDialog2" timestamp="1586088918515">
-      <screen x="0" y="0" width="4480" height="1053" />
+    <state x="2660" y="128" width="880" height="797" key="CommitChangelistDialog2/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869858480" />
+    <state width="1897" height="261" key="GridCell.Tab.0.bottom" timestamp="1586869766428">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state x="521" y="124" width="867" height="797" key="CommitChangelistDialog2/0.0.4480.1053@0.0.4480.1053" timestamp="1586088918515" />
-    <state x="100" y="99" width="1720" height="853" key="DiffContextDialog" timestamp="1586861994112">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1897" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869766428" />
+    <state width="1897" height="261" key="GridCell.Tab.0.center" timestamp="1586869766427">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state x="100" y="99" width="1720" height="853" key="DiffContextDialog/0.0.1920.1053/1920.0.2560.1080@0.0.1920.1053" timestamp="1586861994112" />
-    <state width="1878" height="257" key="GridCell.Tab.0.bottom" timestamp="1586089259762">
-      <screen x="0" y="0" width="4480" height="1053" />
+    <state width="1897" height="261" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869766427" />
+    <state width="1897" height="261" key="GridCell.Tab.0.left" timestamp="1586869766427">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="257" key="GridCell.Tab.0.bottom/0.0.4480.1053@0.0.4480.1053" timestamp="1586089259762" />
-    <state width="1878" height="257" key="GridCell.Tab.0.center" timestamp="1586089259752">
-      <screen x="0" y="0" width="4480" height="1053" />
+    <state width="1897" height="261" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869766427" />
+    <state width="1897" height="261" key="GridCell.Tab.0.right" timestamp="1586869766428">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="257" key="GridCell.Tab.0.center/0.0.4480.1053@0.0.4480.1053" timestamp="1586089259752" />
-    <state width="1878" height="257" key="GridCell.Tab.0.left" timestamp="1586089259751">
-      <screen x="0" y="0" width="4480" height="1053" />
+    <state width="1897" height="261" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869766428" />
+    <state x="2903" y="449" width="395" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586869683549">
+      <screen x="1920" y="0" width="2560" height="1080" />
     </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="257" key="GridCell.Tab.0.left/0.0.4480.1053@0.0.4480.1053" timestamp="1586089259751" />
-    <state width="1878" height="257" key="GridCell.Tab.0.right" timestamp="1586089259753">
-      <screen x="0" y="0" width="4480" height="1053" />
-    </state>
-    <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1586087116078" />
-    <state width="1878" height="257" key="GridCell.Tab.0.right/0.0.4480.1053@0.0.4480.1053" timestamp="1586089259753" />
-    <state x="555" y="261" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1586089112150">
-      <screen x="0" y="0" width="4480" height="1053" />
-    </state>
-    <state x="555" y="261" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.4480.1053@0.0.4480.1053" timestamp="1586089112150" />
-    <state x="757" y="445" width="395" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586861857766">
-      <screen x="0" y="0" width="1920" height="1053" />
-    </state>
-    <state x="757" y="445" width="395" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1053/1920.0.2560.1080@0.0.1920.1053" timestamp="1586861857766" />
-    <state x="834" y="387" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1586080289745">
-      <screen x="0" y="0" width="1920" height="1053" />
-    </state>
-    <state x="834" y="387" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1053@0.0.1920.1053" timestamp="1586080289745" />
+    <state x="2903" y="449" width="395" height="155" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1586869683549" />
   </component>
 </project>
