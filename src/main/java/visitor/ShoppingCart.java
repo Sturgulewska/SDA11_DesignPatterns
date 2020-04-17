@@ -35,3 +35,9 @@ class ShoppingCart {
         return sum;
     }
 }
+// TODO
+/*
+Zadanie do wykonania:
+Dopisz kolejnego wizytora, który będzie zliczał sumę podatku.
+- potrzebujesz dopisać dodatkowe pole zawierające informację o stawce VAT
+* */
