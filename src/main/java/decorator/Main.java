@@ -17,3 +17,8 @@ class Main {
         partyEscapeRoom.meeting();
     }
 }
+// TODO
+/**
+ * Twoim zadaniem jest stworzenie pokoju, który będzie przeznaczony na seminaria/wykłady.
+ * Postępuj zgodnie z kompozycją dekoratora.
+ */
