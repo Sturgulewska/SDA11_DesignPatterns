@@ -60,3 +60,9 @@ public class StrategyRunner {
     }
 
 }
+// TODO
+/**
+ * Twoim zadaniem jest dodać ryczerzy walczących białą bronią (ang. cold steel), stworzyć im odpowiednią instację
+ * strategii i wykorzystać analogicznie jak w powyższych przykładach.
+ * Możesz oczywiście dodać dodatkowe pola, jeśli jest to konieczne.
+ */
