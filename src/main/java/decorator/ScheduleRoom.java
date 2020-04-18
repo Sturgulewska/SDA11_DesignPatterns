@@ -24,6 +24,11 @@ class ScheduleRoom implements Room {
     }
 
     @Override
+    public void show() {
+        System.out.println(String.format("Start at: %d to %d", startTime, endTime));
+    }
+
+    @Override
     public String toString() {
         return String.format("Start at: %d to %d", startTime, endTime);
     }

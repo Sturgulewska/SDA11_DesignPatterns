@@ -12,4 +12,9 @@ class BasicRoomDecorator implements Room {
         this.room.meeting();
         System.out.println("Perform meeting with basic equipment room");
     }
+
+    @Override
+    public void show() {
+        this.room.show();
+    }
 }
