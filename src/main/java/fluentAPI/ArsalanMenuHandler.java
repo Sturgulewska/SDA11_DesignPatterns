@@ -10,25 +10,20 @@ public class ArsalanMenuHandler implements IMenu {
     List<IItem> selectedList = new ArrayList<IItem>();
 
     public ArsalanMenuHandler() {
-
         IItem biriyani = new IItem() {
-
             public IItem name() {
                 System.out.println("Mutton Biriyani");
                 return this;
             }
-
             public Integer cost() {
                 return 180;
             }
         };
-
         IItem muttonChap = new IItem() {
             public IItem name() {
                 System.out.println("Mutton Chap");
                 return this;
             }
-
             public Integer cost() {
                 return 160;
             }
@@ -51,7 +46,6 @@ public class ArsalanMenuHandler implements IMenu {
     }
 
     public IMenu order(int index) {
-
         IItem item = menuList.get(index);
         selectedList.add(item);
         System.out.println("Order given ::");
@@ -70,9 +64,7 @@ public class ArsalanMenuHandler implements IMenu {
     }
 
     public IMenu pay() {
-
         int cost = 0;
-
         for (IItem item : selectedList) {
             cost = cost + item.cost();
         }
