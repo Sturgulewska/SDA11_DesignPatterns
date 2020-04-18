@@ -8,6 +8,7 @@ class ShoppingVisitor implements MyVisitor {
     }
 
     public float visit(DiscDVD discDVD) {
+        discDVD.setInPromotion(false);
         return discDVD.getPrice() * tax;
     }
 

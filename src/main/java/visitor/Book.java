@@ -5,11 +5,13 @@ class Book implements Element {
     private String title;
     private float price;
     private float weight;
+    private float tax;
 
-    public Book(String title, float price, float weight) {
+    public Book(String title, float price, float weight, float tax) {
         this.title = title;
         this.price = price;
         this.weight = weight;
+        this.tax = tax;
     }
 
     public float accept(MyVisitor visitor) {
@@ -38,5 +40,9 @@ class Book implements Element {
 
     public void setWeight(float weight) {
         this.weight = weight;
+    }
+
+    public float getTax() {
+        return tax;
     }
 }
